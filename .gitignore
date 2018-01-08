@@ -8,6 +8,7 @@
 *.class
 
 # ignore .log
+*.log
 *.log.*
 
 # ignore .DS_Store
